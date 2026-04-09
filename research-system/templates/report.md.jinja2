@@ -1,0 +1,192 @@
+# {{ company_name }} — Research Report
+
+> **Generado:** {{ generated_at }}
+> **Fuentes analizadas:** {{ sources_count }}
+> **Resultados de búsqueda:** {{ search_results_count }}
+
+---
+
+## Tabla de Contenidos
+
+1. [Resumen Ejecutivo](#resumen-ejecutivo)
+2. [Métricas Financieras](#métricas-financieras)
+3. [Equipo y Personas](#equipo-y-personas)
+4. [Datos Clave](#datos-clave)
+5. [Fuentes Consultadas](#fuentes-consultadas)
+6. [Contradicciones Detectadas](#contradicciones-detectadas)
+7. [Datos Raw por Fuente](#datos-raw-por-fuente)
+
+---
+
+## Resumen Ejecutivo
+
+| Campo | Valor |
+|-------|-------|
+| **Empresa** | {{ company_name }} |
+| **Fecha análisis** | {{ generated_at }} |
+| **Fuentes procesadas** | {{ sources_count }} |
+{% if financial.founded %}
+| **Fundación** | {{ financial.founded }} |
+{% endif %}
+{% if financial.employees %}
+| **Empleados** | {{ financial.employees }} |
+{% endif %}
+{% if aggregated.cif %}
+| **CIF/NIF** | {{ aggregated.cif | join_list }} |
+{% endif %}
+
+---
+
+## Métricas Financieras
+
+{% if financial and financial.values() | list | reject("none") | list %}
+| Métrica | Valor |
+|---------|-------|
+{% if financial.revenue %}| Revenue / Ingresos | {{ financial.revenue }} |{% endif %}
+{% if financial.funding %}| Financiación | {{ financial.funding }} |{% endif %}
+{% if financial.valuation %}| Valoración | {{ financial.valuation }} |{% endif %}
+{% if financial.capital %}| Capital Social | {{ financial.capital }} |{% endif %}
+{% if financial.cagr %}| CAGR | {{ financial.cagr }}% |{% endif %}
+{% if financial.employees %}| Empleados | {{ financial.employees }} |{% endif %}
+{% if financial.founded %}| Año fundación | {{ financial.founded }} |{% endif %}
+{% else %}
+> No se encontraron métricas financieras en las fuentes analizadas.
+{% endif %}
+
+{% if aggregated.money %}
+### Valores monetarios detectados
+
+{{ aggregated.money | join_list }}
+{% endif %}
+
+{% if aggregated.percentages %}
+### Porcentajes detectados
+
+{{ aggregated.percentages | join_list }}%
+{% endif %}
+
+---
+
+## Equipo y Personas
+
+{% if aggregated.people %}
+{% for person in aggregated.people[:20] %}
+- {{ person }}
+{% endfor %}
+{% if aggregated.people | length > 20 %}
+> *(y {{ aggregated.people | length - 20 }} más...)*
+{% endif %}
+{% else %}
+> No se identificaron nombres de personas en las fuentes.
+{% endif %}
+
+{% if aggregated.emails %}
+### Contactos
+
+{% for email in aggregated.emails %}
+- {{ email }}
+{% endfor %}
+{% endif %}
+
+---
+
+## Datos Clave
+
+### Años mencionados
+
+{% if aggregated.years %}
+{{ aggregated.years | join_list }}
+{% else %}
+—
+{% endif %}
+
+### Fechas detectadas
+
+{% if aggregated.dates %}
+{% for date in aggregated.dates %}
+- {{ date }}
+{% endfor %}
+{% else %}
+> No se detectaron fechas específicas.
+{% endif %}
+
+### URLs encontradas
+
+{% if aggregated.urls %}
+{% for url in aggregated.urls[:15] %}
+- {{ url }}
+{% endfor %}
+{% endif %}
+
+---
+
+## Fuentes Consultadas
+
+{% if queries_used %}
+### Queries de búsqueda
+
+{% for q in queries_used %}
+- `{{ q }}`
+{% endfor %}
+{% endif %}
+
+{% if urls_fetched %}
+### URLs procesadas
+
+{% for url in urls_fetched %}
+- {{ url }}
+{% endfor %}
+{% endif %}
+
+---
+
+## Contradicciones Detectadas
+
+{% if contradictions %}
+> **Atención:** Se detectaron valores contradictorios entre fuentes.
+
+{% for c in contradictions %}
+### {{ c.metric | title }}
+
+| Fuente | Valor |
+|--------|-------|
+{% for source, value in c.by_source.items() %}
+| {{ source }} | {{ value }} |
+{% endfor %}
+> **Valor usado:** {{ c.chosen }}
+
+{% endfor %}
+{% else %}
+> No se detectaron contradicciones significativas entre fuentes.
+{% endif %}
+
+---
+
+## Datos Raw por Fuente
+
+{% for source_name, source_data in per_source.items() %}
+### {{ source_name | title | replace("_", " ") }}
+
+{% if source_data.financial %}
+**Métricas financieras:**
+
+{% for metric, val in source_data.financial.items() %}
+{% if val %}
+- **{{ metric }}:** {{ val }}
+{% endif %}
+{% endfor %}
+{% endif %}
+
+{% if source_data.people %}
+**Personas:** {{ source_data.people[:5] | join_list }}
+{% endif %}
+
+{% if source_data.emails %}
+**Emails:** {{ source_data.emails | join_list }}
+{% endif %}
+
+---
+{% endfor %}
+
+*Análisis automático generado por Research System.
+Para validación de datos, requiere due diligence manual.*

@@ -1,0 +1,344 @@
+{
+  "per_source": {
+    "mail.google.com": {
+      "money": [],
+      "percentages": [],
+      "years": [],
+      "emails": [],
+      "urls": [],
+      "dates": [],
+      "people": [
+        "Gmail\nEmail",
+        "Use Guest"
+      ],
+      "cif": [],
+      "financial": {
+        "revenue": null,
+        "funding": null,
+        "valuation": null,
+        "cagr": null,
+        "employees": null,
+        "founded": null,
+        "capital": null
+      }
+    },
+    "capital-riesgo.es": {
+      "money": [],
+      "percentages": [],
+      "years": [
+        "2019",
+        "2027",
+        "2020",
+        "2024",
+        "2030",
+        "2028",
+        "2026"
+      ],
+      "emails": [],
+      "urls": [
+        "https://www.ico.es/en-US/web/guest/el-ico-impulsa-el-despliegue-de-30-nuevas-hidrolineras-en-espana-hvr-energy"
+      ],
+      "dates": [
+        "07/04/2026"
+      ],
+      "people": [
+        "Energy\nInicio",
+        "Ayudas Públicas\nInversión",
+        "Crédito Oficial",
+        "Comisión Europea",
+        "Implementing Partner",
+        "Unión Europea",
+        "Europa\nDesde",
+        "Energy\nFuente",
+        "Directorio\nEscribir",
+        "Artículo\nDestacadas\nPopulares\nRecientes\nAxon",
+        "Cloud Technology",
+        "Axon Partners Group",
+        "Marsal\nAmbos",
+        "Fotos\nEtiquetas\nInveready\nCdti\nCofides\nCdti",
+        "Alantra\nCaixa"
+      ],
+      "cif": [],
+      "financial": {
+        "revenue": null,
+        "funding": "12,75",
+        "valuation": null,
+        "cagr": null,
+        "employees": null,
+        "founded": null,
+        "capital": null
+      }
+    },
+    "tiinside.com.br": {
+      "money": [
+        "15"
+      ],
+      "percentages": [],
+      "years": [],
+      "emails": [],
+      "urls": [],
+      "dates": [],
+      "people": [
+        "Romero Rodrigues",
+        "Nuno Lopes Alves",
+        "Visa Latam"
+      ],
+      "cif": [],
+      "financial": {
+        "revenue": null,
+        "funding": null,
+        "valuation": null,
+        "cagr": null,
+        "employees": null,
+        "founded": null,
+        "capital": null
+      }
+    },
+    "calameo.com": {
+      "money": [],
+      "percentages": [],
+      "years": [
+        "2024"
+      ],
+      "emails": [],
+      "urls": [],
+      "dates": [],
+      "people": [
+        "Read\nDiario",
+        "Less\nRead"
+      ],
+      "cif": [],
+      "financial": {
+        "revenue": null,
+        "funding": null,
+        "valuation": null,
+        "cagr": null,
+        "employees": null,
+        "founded": null,
+        "capital": null
+      }
+    },
+    "expansion.com": {
+      "money": [
+        "20"
+      ],
+      "percentages": [
+        "2,860"
+      ],
+      "years": [
+        "2026"
+      ],
+      "emails": [],
+      "urls": [],
+      "dates": [],
+      "people": [
+        "Facebook\nCompartir",
+        "Twitter\nCompartir",
+        "Juan David Mendieta",
+        "Standard Chartered",
+        "Turing Capital",
+        "Jorge Schnura",
+        "Alex Manson",
+        "Red Eléctrica"
+      ],
+      "cif": [],
+      "financial": {
+        "revenue": null,
+        "funding": "31",
+        "valuation": "1.100",
+        "cagr": null,
+        "employees": null,
+        "founded": null,
+        "capital": null
+      }
+    },
+    "mejorinformado.com": {
+      "money": [
+        "122.000",
+        "852.000",
+        "1000",
+        "2000",
+        "3000",
+        "4700"
+      ],
+      "percentages": [],
+      "years": [
+        "2000"
+      ],
+      "emails": [],
+      "urls": [],
+      "dates": [],
+      "people": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Wells Fargo",
+        "Royal Bank"
+      ],
+      "cif": [],
+      "financial": {
+        "revenue": "$1000",
+        "funding": "$122.000",
+        "valuation": "$852.000",
+        "cagr": null,
+        "employees": null,
+        "founded": null,
+        "capital": null
+      }
+    },
+    "forbes.es": {
+      "money": [],
+      "percentages": [],
+      "years": [
+        "2023"
+      ],
+      "emails": [],
+      "urls": [],
+      "dates": [],
+      "people": [
+        "Inteligencia Artificial",
+        "Forgepoint Capital",
+        "Banco Santander",
+        "Dan Dica",
+        "Leo Casusol",
+        "Reino Unido",
+        "Estados Unidos"
+      ],
+      "cif": [],
+      "financial": {
+        "revenue": null,
+        "funding": "17",
+        "valuation": null,
+        "cagr": null,
+        "employees": null,
+        "founded": null,
+        "capital": null
+      }
+    }
+  },
+  "aggregated": {
+    "people": [
+      "Gmail\nEmail",
+      "Use Guest",
+      "Energy\nInicio",
+      "Ayudas Públicas\nInversión",
+      "Crédito Oficial",
+      "Comisión Europea",
+      "Implementing Partner",
+      "Unión Europea",
+      "Europa\nDesde",
+      "Energy\nFuente",
+      "Directorio\nEscribir",
+      "Artículo\nDestacadas\nPopulares\nRecientes\nAxon",
+      "Cloud Technology",
+      "Axon Partners Group",
+      "Marsal\nAmbos",
+      "Fotos\nEtiquetas\nInveready\nCdti\nCofides\nCdti",
+      "Alantra\nCaixa",
+      "Romero Rodrigues",
+      "Nuno Lopes Alves",
+      "Visa Latam",
+      "Read\nDiario",
+      "Less\nRead",
+      "Facebook\nCompartir",
+      "Twitter\nCompartir",
+      "Juan David Mendieta",
+      "Standard Chartered",
+      "Turing Capital",
+      "Jorge Schnura",
+      "Alex Manson",
+      "Red Eléctrica",
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "Wells Fargo",
+      "Royal Bank",
+      "Inteligencia Artificial",
+      "Forgepoint Capital",
+      "Banco Santander",
+      "Dan Dica",
+      "Leo Casusol",
+      "Reino Unido",
+      "Estados Unidos"
+    ],
+    "years": [
+      "2019",
+      "2027",
+      "2020",
+      "2024",
+      "2030",
+      "2028",
+      "2026",
+      "2000",
+      "2023"
+    ],
+    "urls": [
+      "https://www.ico.es/en-US/web/guest/el-ico-impulsa-el-despliegue-de-30-nuevas-hidrolineras-en-espana-hvr-energy"
+    ],
+    "dates": [
+      "07/04/2026"
+    ],
+    "money": [
+      "15",
+      "20",
+      "122.000",
+      "852.000",
+      "1000",
+      "2000",
+      "3000",
+      "4700"
+    ],
+    "percentages": [
+      "2,860"
+    ]
+  },
+  "financial": {
+    "funding": "12,75",
+    "valuation": "1.100",
+    "revenue": "$1000",
+    "cagr": null,
+    "employees": null,
+    "founded": null,
+    "capital": null
+  },
+  "contradictions": [
+    {
+      "metric": "funding",
+      "by_source": {
+        "capital-riesgo.es": "12,75",
+        "expansion.com": "31",
+        "mejorinformado.com": "$122.000",
+        "forbes.es": "17"
+      },
+      "chosen": "12,75"
+    },
+    {
+      "metric": "valuation",
+      "by_source": {
+        "expansion.com": "1.100",
+        "mejorinformado.com": "$852.000"
+      },
+      "chosen": "1.100"
+    }
+  ],
+  "sources_count": 7,
+  "search_results_count": 10,
+  "urls_fetched": [
+    "https://mail.google.com/mail?hl=en",
+    "https://mail.google.com/mail/u/0/",
+    "https://spanish.china.org.cn/txt/2026-04/08/content_118424898.htm",
+    "https://capital-riesgo.es/es/articles/el-ico-impulsa-el-despliegue-de-30-nuevas-hidrolineras-en-espa-a-con-una-financiaci-n-de-12-75-millones-de-euros-a-hvr-energy/",
+    "https://www.datacenterdynamics.com/es/noticias/openai-cierra-una-ronda-de-financiacion-en-la-que-recauda-122-000-millones-de-dolares-con-una-valoracion-de-852-000-millones-de-dolares/",
+    "https://tiinside.com.br/es/04/03/2026/Celero-recauda-R$15-millones-en-la-primera-ronda-de-la-Serie-A-liderada-por-Headline./",
+    "https://www.calameo.com/books/002698969fa83bc10b75f",
+    "https://www.expansion.com/mercados/criptomonedas/2026/03/31/69cb90b8e5fdeaeb738b459d.html",
+    "https://www.mejorinformado.com/empresas/2026-4-6-9-11-37-openai-cierra-ronda-de-financiacion-de-us-122-000-millones-y-alcanza-valoracion-de-us-852-000-millones",
+    "https://forbes.es/ultima-hora/367756/lynx-anuncia-una-ronda-de-financiacion-de-17-millones-de-euros-liderada-por-forgepoint-y-nombra-nuevo-ceo/"
+  ],
+  "queries_used": [
+    "site:www.mai-cdmo.com",
+    "\"Mai CDMO\" empresa",
+    "\"Mai CDMO\" CEO founder equipo directivo",
+    "\"Mai CDMO\" financiación inversión ronda",
+    "\"Mai CDMO\" revenue ingresos facturación"
+  ],
+  "llm_summary": "# Análisis de Due Diligence: Mai CDMO\n\n---\n\n## 1. Resumen Ejecutivo\n\n**No se ha encontrado información verificable sobre la empresa \"Mai CDMO\" en ninguna de las fuentes proporcionadas.** La totalidad de los datos extraídos corresponde a empresas y entidades completamente ajenas: HVR Energy (infraestructuras de hidrógeno, financiada por el ICO), Celero (infraestructura de datos para pymes en Brasil), Keyrock (activos digitales/criptomonedas), OpenAI (inteligencia artificial), y Lynx (software antifraude). Ninguna de estas guarda relación aparente con una empresa denominada \"Mai CDMO\" ni con el sector CDMO (Contract Development and Manufacturing Organization), que típicamente opera en la industria farmacéutica y biotecnológica.\n\nLas métricas financieras presentadas (funding de 12,75 millones, valoración de 1.100 millones, ingresos de $1.000 millones) son el resultado de una agregación errónea de datos pertenecientes a distintas compañías: el funding de 12,75M€ corresponde a HVR Energy, la valoración de $1.100M a Keyrock, y los ingresos de $1.000M trimestrales a OpenAI. **Ninguna de estas cifras es atribuible a Mai CDMO.**\n\nLas entidades detectadas como \"equipo directivo\" (Gmail Email, Use Guest, Energy Inicio, Ayudas Públicas Inversión, etc.) son artefactos del scraping web y no representan personas reales ni directivos de ninguna empresa. El proceso automatizado de recopilación de datos ha fallado completamente en localizar información relevante sobre la empresa objetivo.\n\n---\n\n## 2. Puntos Clave\n\n- ⚠️ **No existe información verificable** sobre Mai CDMO en ninguna de las 7 fuentes extraídas.\n- ⚠️ **Todas las métricas financieras son incorrectas**: pertenecen a HVR Energy, Keyrock, OpenAI, Celero y Lynx, respectivamente.\n- ⚠️ **No se identifica equipo directivo, fundadores ni empleados** de Mai CDMO.\n- ⚠️ **No se dispone de CIF/NIF, domicilio social ni jurisdicción** de la empresa.\n- ⚠️ **El sector CDMO** (fabricación farmacéutica por contrato) no aparece mencionado en ningún extracto.\n- ⚠️ **No hay datos sobre año de fundación, ingresos reales, ni historial de financiación** de la empresa objetivo.\n\n---\n\n## 3. Señales de Alerta\n\n| Señal | Severidad |\n|---|---|\n| **Ausencia total de datos reales sobre la empresa** | 🔴 Crítica |\n| Métricas financieras atribuidas erróneamente desde fuentes inconexas | 🔴 Crítica |\n| \"Equipo directivo\" compuesto por artefactos de scraping (fragmentos de navegación web) | 🔴 Crítica |\n| Las contradicciones entre fuentes reflejan empresas distintas, no discrepancias sobre Mai CDMO | 🔴 Crítica |\n| Una fuente es simplemente la página de login de Gmail, sin contenido alguno | 🟡 Moderada |\n| Imposibilidad de validar existencia legal de la compañía con los datos disponibles | 🔴 Crítica |\n\n---\n\n## 4. Próximos Pasos Recomendados\n\n1. **Verificar la existencia legal** de \"Mai CDMO\": consultar registros mercantiles (España, UE u otra jurisdicción), bases de datos como SABI, Orbis o Crunchbase.\n2. **Confirmar el nombre correcto** de la empresa: podría tratarse de una denominación alternativa, acrónimo o marca comercial distinta.\n3. **Búsqueda manual especializada** en bases"
+}

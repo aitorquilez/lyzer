@@ -1,0 +1,62 @@
+{
+  "per_source": {
+    "supportcommunity.zebra.com": {
+      "money": [],
+      "percentages": [],
+      "years": [],
+      "emails": [],
+      "urls": [],
+      "dates": [],
+      "people": [
+        "Error\nRefresh"
+      ],
+      "cif": [],
+      "financial": {
+        "revenue": null,
+        "funding": null,
+        "valuation": null,
+        "cagr": null,
+        "employees": null,
+        "founded": null,
+        "capital": null
+      }
+    }
+  },
+  "aggregated": {
+    "people": [
+      "Error\nRefresh"
+    ]
+  },
+  "financial": {
+    "revenue": null,
+    "funding": null,
+    "valuation": null,
+    "cagr": null,
+    "employees": null,
+    "founded": null,
+    "capital": null
+  },
+  "contradictions": [],
+  "sources_count": 1,
+  "search_results_count": 10,
+  "urls_fetched": [
+    "https://supportcommunity.zebra.com/articles/en_US/Knowledge/000022299",
+    "https://supportcommunity.zebra.com/articles/en_US/Knowledge/000027281",
+    "https://supportcommunity.zebra.com/s/article/000032415?language=zh_CN",
+    "https://supportcommunity.zebra.com/articles/en_US/Knowledge/Zebra-Setup-Utilities-Install-a-USB-driver-or-a-network-driver-using-the-IP-address",
+    "https://supportcommunity.zebra.com/articles/en_US/Knowledge/Changing-the-printer-IP-port-to-9100-or-others?r=50&ui-knowledge-components-aura-actions.KnowledgeArticleVersionCreateDraftFromOnlineAction.createDraftFromOnlineArticle=1",
+    "https://supportcommunity.zebra.com/s/article/zebra-printers-resolving-spooler-issues-and-clearing-print-queue?language=ru",
+    "https://supportcommunity.zebra.com/s/article/000027281?language=fr",
+    "https://supportcommunity.zebra.com/s/article/Zebra-Setup-Utilities-Downloading-ZSU-Configuring-Printer-Settings?language=ko",
+    "https://supportcommunity.zebra.com/s/article/000027608?language=fr",
+    "https://supportcommunity.zebra.com/s/article/000026068?language=fr"
+  ],
+  "queries_used": [
+    "site:www.zebraventures.eu",
+    "\"Zebra ventures\" empresa",
+    "\"Zebra ventures\" CEO founder equipo directivo",
+    "\"Zebra ventures\" financiación inversión ronda",
+    "\"Zebra ventures\" revenue ingresos facturación"
+  ],
+  "llm_summary": "# Análisis de Due Diligence: Zebra Ventures\n\n---\n\n## 1. Resumen Ejecutivo\n\n**Zebra Ventures es una empresa sobre la cual no ha sido posible obtener información sustancial a partir de las fuentes web consultadas.** La extracción automatizada de datos no arrojó métricas financieras (ingresos, financiación, valoración, número de empleados, año de fundación ni capital), y la única fuente indexada corresponde a una página de soporte de la comunidad de **Zebra Technologies** (supportcommunity.zebra.com), la cual presentó un error de carga (CSS Error), por lo que no se pudo extraer contenido útil.\n\n**No se dispone de información verificable sobre la actividad comercial, equipo directivo, modelo de negocio ni situación financiera de \"Zebra Ventures\".** Es importante señalar que el nombre podría estar asociado a distintas entidades: (a) un brazo de capital de riesgo corporativo (CVC) vinculado a **Zebra Technologies**, la multinacional cotizada en NASDAQ especializada en soluciones de captura de datos, código de barras e IoT industrial; (b) una firma de venture capital independiente; o (c) una startup o entidad de menor perfil. Sin datos concretos, no es posible confirmar a cuál de estas hipótesis corresponde.\n\n**La ausencia total de datos financieros, de equipo y de identificación fiscal (CIF/NIF) constituye una limitación severa para cualquier proceso de inversión o due diligence.** No se detectaron contradicciones entre fuentes simplemente porque no existe contenido significativo que contrastar. Esta opacidad informativa, en sí misma, es un hallazgo relevante para el analista.\n\n---\n\n## 2. Puntos Clave para el Inversor\n\n- **Información financiera inexistente:** No se encontraron datos de ingresos, valoración, rondas de financiación ni estructura de capital.\n- **Equipo directivo desconocido:** No fue posible identificar fundadores, directores ni personas clave asociadas a la entidad.\n- **Identidad corporativa ambigua:** El nombre \"Zebra Ventures\" podría referirse a múltiples entidades, incluyendo un posible CVC de Zebra Technologies o una firma independiente.\n- **Sin presencia digital verificable:** La única fuente rastreada presentó errores técnicos y no proporcionó contenido.\n- **Sin registros fiscales ni jurisdiccionales identificados:** No se encontró CIF/NIF ni país de incorporación.\n- **Riesgo reputacional no evaluable:** Sin datos públicos, no es posible valorar litigios, sanciones ni opiniones del mercado.\n\n---\n\n## 3. Señales de Alerta 🚩\n\n| Señal | Nivel de riesgo |\n|---|---|\n| **Ausencia total de información pública accesible** | 🔴 Alto |\n| **Sin identificación de personas o equipo directivo** | 🔴 Alto |\n| **Posible confusión con Zebra Technologies (empresa cotizada)** | 🟡 Medio |\n| **Sin métricas financieras de ningún tipo** | 🔴 Alto |\n| **Fuente única y con error de carga** | 🟡 Medio |\n\n> **Nota crítica:** La imposibilidad de obtener cualquier dato básico representa, por sí sola, una señal de alerta significativa en un proceso de due diligence.\n\n---\n\n## 4. Próximos Pasos Recomendados\n\n1. **Confirmar la identidad legal exacta** de \"Zebra Ventures\": solicitar documentación de incorporación, jurisdicción y registro mercantil.\n2. **Verificar si es un vehículo de inversión de Zebra Technologies** contactando directamente a la compañía matriz o revisando sus informes anuales (SEC filings / 10-K).\n3. **Solicitar pitch deck, estados financieros auditados y cap table** directamente a la entidad.\n4. **Buscar en bases de datos espec"
+}
